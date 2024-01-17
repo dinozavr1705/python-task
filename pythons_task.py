@@ -1,4 +1,3 @@
-import math
 from time import *
 from math import *
 n = 123
